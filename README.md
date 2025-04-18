@@ -14,7 +14,7 @@ Only supported language is spanish.
 - WPF (Windows Presentation Foundation)
 - C#
 
-## 📌 Status
+## 📌 Status: Public Release
 The app is fully functional and ready for use. Future improvements may include:
 - Theming options.
 - Animations or confetti effects.
